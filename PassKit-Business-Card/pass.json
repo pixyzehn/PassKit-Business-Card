@@ -1,17 +1,17 @@
 {
 	"formatVersion" : 1,
-	"passTypeIdentifier" : "pass.au.com.timoliver.businesscard.dank",
-	"serialNumber" : "XD",
-	"teamIdentifier" : "**INSERT YOUR TEAM IDENTIFIER CODE HERE**",
+	"passTypeIdentifier" : "pass.com.pixyzehn",
+	"serialNumber" : "",
+	"teamIdentifier" : "TEAM_IDENTIFIER",
 	"barcodes" : [
 		{
-		    "message" : "https://downloads.timoliver.com.au/tim-businesscard.pkpass",
+		    "message" : "download URL...",
 		    "format" : "PKBarcodeFormatQR",
 		    "messageEncoding" : "iso-8859-1"
 		}
 	],
-	"organizationName" : "Tim Oliver",
-	"description" : "Tim Oliver",
+	"organizationName" : "Hiroki Nagasawa",
+	"description" : "Hiroki Nagasawa",
 	"foregroundColor" : "rgb(255, 255, 255)",
 	"backgroundColor" : "rgb(20, 20, 20)",
 	"labelColor" : "rgb(190, 57, 57)",
@@ -21,20 +21,20 @@
 				"key" : "header-name",
 				"textAlignment" : "PKTextAlignmentRight",
 				"label" : "PROFESSION",
-				"value" : "Hanzo Main"
+				"value" : "Developer"
 			}
 		],
 		"auxiliaryFields" : [
 			{
-				"key" : "blog",
-				"label" : "BLOG",
-				"value" : "http://timoliver.blog",
+				"key" : "site",
+				"label" : "SITE",
+				"value" : "https://pixyzehn.com",
 				"textAlignment" : "PKTextAlignmentLeft"
 			},
 			{
 				"key" : "twitter",
 				"label" : "TWITTER",
-				"value" : "@TimOliverAU",
+				"value" : "@pixyzehn",
 				"textAlignment" : "PKTextAlignmentRight"
 			}
 		],
@@ -42,37 +42,37 @@
 			{
 				"key" : "back-name",
 				"label" : "NAME",
-				"value" : "Tim Oliver"
+				"value" : "Hiroki Nagasawa"
 			},
 			{
 				"key" : "back-role",
 				"label" : "OCCUPATION",
-				"value" : "CMO - Chief Memes Officer"
+				"value" : "iOS Developer"
 			},
 			{
 				"key" : "back-email",
 				"label" : "EMAIL",
-				"attributedValue" : "<a href='mailto:info@timoliver.com.au'>info@timoliver.com.au</a>"
+				"attributedValue" : "<a href='mailto:pixyzehn@icloud.com'>pixyzehn@icloud.com</a>"
 			},
 			{
-				"key" : "back-blog",
-				"label" : "BLOG",
-				"attributedValue" : "<a href='http://timoliver.blog'>http://timoliver.blog</a>"
+				"key" : "back-site",
+				"label" : "SITE",
+				"attributedValue" : "<a href='https://pixyzehn.com'>https://pixyzehn.com</a>"
 			},
 			{
 				"key" : "back-email",
 				"label" : "TWITTER",
-				"attributedValue" : "<a href='http://twitter.com/timoliverau'>@TimOliverAU</a>"
+				"attributedValue" : "<a href='https://twitter.com/pixyzehn'>@pixyzehn</a>"
 			},	
 			{
 				"key" : "back-instagram",
 				"label" : "INSTAGRAM",
-				"attributedValue" : "<a href='http://instagram.com/timoliver'>@TimOliver</a>"
+				"attributedValue" : "<a href='https://instagram.com/pixyzehn'>@pixyzehn</a>"
 			},	
 			{
 				"key" : "back-github",
 				"label" : "GITHUB",
-				"attributedValue" : "<a href='http://github.com/timoliver'>@TimOliver</a>"
+				"attributedValue" : "<a href='https://github.com/pixyzehn'>@pixyzehn</a>"
 			}
 		]
 	}
